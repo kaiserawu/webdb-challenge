@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kaiserawu/webdb-challenge/issues"
   },
-  "homepage": "https://github.com/kaiserawu/webdb-challenge#readme"
+  "homepage": "https://github.com/kaiserawu/webdb-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.17.2",
+    "knex-cleaner": "^1.1.4",
+    "sqlite3": "^4.0.8"
+  }
 }
